@@ -11,8 +11,10 @@ public class TestController {
   public String helloWorld() {
 	  System.out.println("666666");
 	  System.out.println("333355");
+	  System.out.println("333333");
 	  User user = new User();
 	  System.out.println("11111111");
+	  System.out.println("222222");
 	  System.out.println("222222");
 	  return "hello world";
   }
