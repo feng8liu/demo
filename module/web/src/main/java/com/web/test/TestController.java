@@ -9,9 +9,7 @@ import com.entity.User;
 public class TestController {
   @RequestMapping("hello")
   public String helloWorld() {
-	  System.out.println("666666");
-	  System.out.println("333355");
-	  System.out.println("333333");
+	  System.out.println("22222");
 	  User user = new User();
 	  System.out.println("000000");
 	  return "hello world";
