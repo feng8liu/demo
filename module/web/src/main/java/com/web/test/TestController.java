@@ -10,7 +10,7 @@ public class TestController {
   @RequestMapping("hello")
   public String helloWorld() {
 	  User user = new User();
-	  System.out.println("123");
+	  System.out.println("99999999");
 	  return "hello world";
   }
 }
