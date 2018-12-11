@@ -14,9 +14,6 @@ public class TestController {
 	  System.out.println("333333");
 	  User user = new User();
 	  System.out.println("000000");
-	  System.out.println("111211");
-	  System.out.println("222222");
-	  System.out.println("222222");
 	  return "hello world";
   }
 }
