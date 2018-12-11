@@ -9,7 +9,7 @@ import com.entity.User;
 public class TestController {
   @RequestMapping("hello")
   public String helloWorld() {
-	  System.out.println("555555");
+	  System.out.println("123");
 	  User user = new User();
 	  System.out.println("000000");
 	  return "hello world";
