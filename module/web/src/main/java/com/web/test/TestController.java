@@ -11,6 +11,7 @@ public class TestController {
   public String helloWorld() {
 	  System.out.println("333333");
 	  User user = new User();
+	  System.out.println("000000");
 	  System.out.println("222222");
 	  return "hello world";
   }
